@@ -32,5 +32,6 @@ module.exports = {
         gatsbyRemarkPlugins: [{ resolve: 'gatsby-remark-images' }],
       },
     },
+    `gatsby-plugin-netlify`,
   ],
 }
