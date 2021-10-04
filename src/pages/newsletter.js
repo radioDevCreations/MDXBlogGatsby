@@ -12,7 +12,7 @@ const NewsLetter = () => {
           <h4>
             I write to my friends every few weeks
           </h4>
-          <form className="contact-form">
+          <form name="contact" className="contact-form">
             <input
               type="text"
               name="name"
